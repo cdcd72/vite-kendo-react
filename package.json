@@ -10,7 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@progress/kendo-theme-bootstrap": "^7.0.2",
     "@progress/kendo-theme-default": "^7.0.2",
+    "@progress/kendo-theme-material": "^7.0.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
