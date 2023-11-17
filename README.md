@@ -3,7 +3,7 @@
 - Skill：[React](https://react.dev/)、[TypeScript](https://www.typescriptlang.org/)、[Sass](https://sass-lang.com/)
 - Support Tool：[ESLint](https://eslint.org/)
 - UI Library：[KendoReact](https://www.telerik.com/kendo-react-ui)
-- Package Manager: [Yarn](https://yarnpkg.com/)
+- Package Manager: [Yarn](https://yarnpkg.com/) (Used version: classic)
 - Frontend Tool：[Vite](https://vitejs.dev/)
 
 ## How to run
@@ -28,7 +28,7 @@
    yarn run dev
    ```
 
-## How to build
+## How to build and preview
 
 1. Build app.
 
@@ -36,7 +36,11 @@
    yarn run build
    ```
 
-2. Get published `dist` folder and deploy your prod env.
+2. Get published `dist` folder and preview your prod env.
+
+   ```
+   yarn run preview
+   ```
 
 ## How to lint
 
