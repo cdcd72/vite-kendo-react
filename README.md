@@ -28,7 +28,7 @@
    yarn run dev
    ```
 
-## How to build
+## How to build and preview
 
 1. Build app.
 
@@ -36,7 +36,11 @@
    yarn run build
    ```
 
-2. Get published `dist` folder and deploy your prod env.
+2. Get published `dist` folder and preview your prod env.
+
+   ```
+   yarn run preview
+   ```
 
 ## How to lint
 
