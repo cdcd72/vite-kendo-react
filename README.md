@@ -45,3 +45,7 @@
    ```
    pnpm run lint
    ```
+
+## How to activate KendoReact
+
+- [Set Up Your KendoReact License Key](https://www.telerik.com/kendo-react-ui/components/my-license/)
