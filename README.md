@@ -3,29 +3,29 @@
 - Skill：[React](https://react.dev/)、[TypeScript](https://www.typescriptlang.org/)、[Sass](https://sass-lang.com/)
 - Support Tool：[ESLint](https://eslint.org/)
 - UI Library：[KendoReact](https://www.telerik.com/kendo-react-ui)
-- Package Manager: [PnPM](https://pnpm.io/)
+- Package Manager: [Yarn](https://yarnpkg.com/)
 - Frontend Tool：[Vite](https://vitejs.dev/)
 
 ## How to run
 
 1. Install [Node.js](https://nodejs.org/en) LTS Version.
 
-2. Install PnPM.
+2. Enabling Corepack.
 
    ```
-   npm install -g pnpm
+   corepack enable
    ```
 
 3. Install dependencies.
 
    ```
-   pnpm install
+   yarn install
    ```
 
 4. Run app in dev env.
 
    ```
-   pnpm run dev
+   yarn run dev
    ```
 
 ## How to build
@@ -33,7 +33,7 @@
 1. Build app.
 
    ```
-   pnpm run build
+   yarn run build
    ```
 
 2. Get published `dist` folder and deploy your prod env.
@@ -43,7 +43,7 @@
 1. Lint your app.
 
    ```
-   pnpm run lint
+   yarn run lint
    ```
 
 ## How to activate KendoReact
