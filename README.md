@@ -3,7 +3,7 @@
 - Skill：[React](https://react.dev/)、[TypeScript](https://www.typescriptlang.org/)、[Sass](https://sass-lang.com/)
 - Support Tool：[ESLint](https://eslint.org/)
 - UI Library：[KendoReact](https://www.telerik.com/kendo-react-ui)
-- Package Manager: [Yarn](https://yarnpkg.com/)
+- Package Manager: [Yarn](https://yarnpkg.com/) (Used version: classic)
 - Frontend Tool：[Vite](https://vitejs.dev/)
 
 ## How to run
