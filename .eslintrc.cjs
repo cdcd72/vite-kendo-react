@@ -1,4 +1,9 @@
 module.exports = {
+  settings: {
+    react: {
+      version: '18.2',
+    },
+  },
   parserOptions: {
     ecmaVersion: 'latest',
     sourceType: 'module',
